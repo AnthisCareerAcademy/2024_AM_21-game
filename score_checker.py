@@ -23,4 +23,4 @@ def check_score(cards):
     # Return the score of the cards.
     return score
 
-print(check_score(["KH", "2S", "AD"]))
+# print(check_score(["KH", "2S", "AD"]))
